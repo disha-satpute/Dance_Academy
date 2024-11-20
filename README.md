@@ -1,2 +1,2 @@
 # Dance Academy 
-React 
+MERN Stack
